@@ -23,7 +23,7 @@
     'name': 'Multiply Price',
     'version': '1.0',
     'author': 'Business Tec Systems',
-    'summary': 'Creates a fields margin% and (read only) price for calculating product price to be used in pricelist',
+    'summary': 'Creates a fields margin percentage and (read only) price for calculating product price to be used in pricelist',
     'description': """
 Multiply Prices
 =======================
