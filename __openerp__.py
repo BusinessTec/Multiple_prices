@@ -27,7 +27,7 @@
     'description': """
 Multiply Prices
 =======================
-Creates 3 prices (base version only provides one for user interfaces
+Creates 3 prices and user interface for editing
     """,
     'website': 'https://businesstec.net',
     'images': [],
